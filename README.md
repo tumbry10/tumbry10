@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Nyasha Nallen Tumba
 
-<!--
-**tumbry10/tumbry10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **software developer** with a focus on creating clean, efficient, and scalable web solutions. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently **open to work** on any web projects built with **Django**
+- 🌱 I’m currently learning **Laravel**
+- 👀 Looking to collaborate on **Python, Django, and Laravel projects**
+- 📫 Reach me at:  
+  📧 nyashatumba@gmail.com  
+  🔗 [LinkedIn](https://www.linkedin.com/in/nyasha-tumba-175115160/)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+- 🐍 Python, PHP, HTML, CSS  
+- ⚙️ Django, Laravel, Bootstrap, Tailwind CSS  
+
+**Tools & Technologies**
+- 🗂️ Git & GitHub  
+- 💻 VS Code  
+
+---
+
+## 📊 GitHub Stats
+
+![Nyasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tumbry10&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tumbry10&layout=compact&theme=radical)
+
+---
+
+## 📌 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nyasha-tumba-175115160/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyashatumba@gmail.com)
+
+---
+
