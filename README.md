@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **software developer** with a focus on cr
 ## 🚀 About Me
 
 - 🔭 I’m currently **open to work** on any web projects built with **Django**
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel** & *Django Restfull APIs*
 - 👀 Looking to collaborate on **Python, Django, and Laravel projects**
 - 📫 Reach me at:  
   📧 nyashatumba@gmail.com  
